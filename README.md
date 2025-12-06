@@ -1,6 +1,6 @@
 # TEAM-VLA: PyTorch Implementation
 
-This repository contains the **PyTorch implementation of TEAM-VLA**, a vision-language-action (VLA) model for efficient robotic manipulation in both simulation and real-world settings.
+This repository contains the **PyTorch implementation of TEAM-VLA**, a vision-language-action (VLA) model for training-free efficient robotic manipulation.
 
 <p align="center">
   <img src="asset/TEAM-VLA.png" alt="TEAM-VLA Overview" width="80%">
